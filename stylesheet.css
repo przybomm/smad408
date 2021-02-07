@@ -1,0 +1,50 @@
+/* CSS RESETS */  
+html{
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+     *, *:before, *:after{
+     -webkit-box-sizing: inherit;
+     -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+
+p{
+    font-family: "Quicksand", sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+        
+}
+
+h1{
+    font-family: "Quicksand", sans-serif;
+    font-size: 45px;
+    font-weight: lighter;
+    
+}
+
+h2{
+    font-family: "Quicksand", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+div {
+  width: 1325px;
+  border: 15px;
+  border-color:#faf3eb;    
+  padding: 50px;
+  margin: 20px;
+  background-color: #d1d5b4;
+}
+
+ul{
+     font-family: "Quicksand", sans-serif;
+    font-size: 17px;
+    font-weight: 200;
+}
+
+
+
